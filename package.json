@@ -1,0 +1,22 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Node.JS applications showing usage of core moddules",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "core NodeJS modules",
+    "streams",
+    "net",
+    "events",
+    "fs",
+    "utils",
+    "os"
+  ],
+  "author": "Akhil",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
